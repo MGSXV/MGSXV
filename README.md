@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**MGS15/MGS15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>  👋 Hello World!; \
+>  👀 My name is Soufiane Elkhamlichi (But they call me MGS); \
+>  💪 I am currently working on improving my skills in C language; \
+>  🖥️ I am a computer science student at [1337](1337.ma); \
+>  🎯 I am aiming to be a full stack developer and future machine learning engineer;
 
-Here are some ideas to get you started:
+---------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+ <center>
+ 
+ [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=sel-kham)](https://github.com/soufianeelkhamlichi)
+ 
+ </center>
+
+---------------
+
+ <center>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soufianeelkhamlichi&show_icons=true&theme=github_dark)
+ 
+ </center>
+ 
+---------------
+
+<center>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soufianeelkhamlichi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </center>
+
+---------------
