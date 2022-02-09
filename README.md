@@ -18,7 +18,7 @@
 ---------------
 -->
  <center>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark)
  
  </center>
  
