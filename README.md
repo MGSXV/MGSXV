@@ -2,7 +2,7 @@
 >  👋 Hello World!; \
 >  👀 My name is Soufiane Elkhamlichi (But they call me MGS); \
 >  💪 I am currently working on improving my skills in C language; \
->  🖥️ I am a computer science student at [1337](1337.ma); \
+>  🖥️ I am a computer science student at [1337](https://www.1337.ma); \
 >  🎯 I am aiming to be a full stack developer and future machine learning engineer;
 
 ---------------
