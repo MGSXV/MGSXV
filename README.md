@@ -11,7 +11,7 @@
  <center>
  <div align="center">
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
   </center>
@@ -21,17 +21,9 @@
 <center>
  <div align="center">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |  [![sel-kham's 42 stats](https://badge.mediaplus.ma/binary/sel-kham)](https://github.com/oakoudad/badge42)
+[![sel-kham's 42 stats](https://badge.mediaplus.ma/binary/sel-kham)](https://github.com/oakoudad/badge42)
  
  </div>
- </center>
-
----------------
-
-<center>
- 
-
- 
  </center>
 
 ---------------
