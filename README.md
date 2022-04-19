@@ -6,7 +6,7 @@
 
 ---------------
 
-<table align="center" border="none">
+<table align="center" style="border: none; text-align: center;">
 <tr>
 <td width="50%">
 <br>
