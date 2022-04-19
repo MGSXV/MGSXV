@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Soufiane Elkhamlichi, (They call me MGS)</h1>
+<h1 align="center">Hi there <img src="images/hey.gif" width="30px">, I'm Soufiane Elkhamlichi, (They call me MGS)</h1>
 
 >  💪 I am currently working on improving my skills in C language; \
 >  🖥️ I am a computer science student at [1337](https://www.1337.ma); \
@@ -10,7 +10,9 @@
 
  <center>
  
+<div align="center">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark)
+</div>
  
  </center>
  
