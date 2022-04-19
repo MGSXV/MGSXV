@@ -19,16 +19,18 @@
 ---------------
 
 <center>
+ <div align="center">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |  [![sel-kham's 42 stats](https://badge.mediaplus.ma/binary/sel-kham)](https://github.com/oakoudad/badge42)
  
+ </div>
  </center>
 
 ---------------
 
 <center>
  
- [![sel-kham's 42 stats](https://badge.mediaplus.ma/binary/sel-kham)](https://github.com/oakoudad/badge42)
+
  
  </center>
 
