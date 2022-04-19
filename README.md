@@ -34,7 +34,9 @@
 ---------------
 
 <center>
- [![sel-kham's 42 stats](https://badge.mediaplus.ma/darkblue/sel-kham)](https://github.com/oakoudad/badge42)
+ 
+ [![sel-kham's 42 stats](https://badge.mediaplus.ma/binary/sel-kham)](https://github.com/oakoudad/badge42)
+ 
  </center>
 
 ---------------
