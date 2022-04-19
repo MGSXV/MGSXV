@@ -8,14 +8,6 @@ Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-
 
 <br>
 
- <!--<center>
- 
- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=sel-kham)](https://github.com/MGS15)
- 
- </center>
-
----------------
--->
  <center>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark)
