@@ -17,8 +17,8 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&layout=compact&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-        </td>
-    </tr>
+</td>
+</tr>
 </table>
 
 
