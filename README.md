@@ -9,11 +9,13 @@
 <table align="center" border="none">
 <tr>
 <td width="50%">
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&hide=issues&hide_border=true&theme=github_dark)
 
 </td>
 <td width="50%">
+<br>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&layout=compact&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
