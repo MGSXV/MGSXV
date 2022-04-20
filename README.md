@@ -34,7 +34,7 @@
 ---------------
 
 <h1 align="center">I'm here as well!</h1>
-<div align="center" style="display: flex">
+<div align="center" style="display: flex; gap: 15px;">
 <p>
 <a href="https://www.facebook.com/soufiane.mgs">
 <img width="40px" src="images/facebook.png">
