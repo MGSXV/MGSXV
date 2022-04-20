@@ -48,17 +48,17 @@
 </div> -->
 <h1 align="center">I'm here as well!</h1>
 <div align="center" style="display: flex; flex-direction: row; align-items: center; gap : 30px; align-items: center;">
-<div>
+<div style="display: flex;">
 <a href="https://www.facebook.com/soufiane.mgs">
 <img width="40px" src="images/facebook.png" >
 </a>
 </div>
-<div>
+<div style="display: flex;">
 <a href="https://www.instagram.com/soufiane.mgs">
 <img width="40px" src="images/instagram.png" style="margin-right: 15px;">
 </a>
 </div>
-<div>
+<div style="display: flex;">
 <a href="https://www.linkedin.com/in/elkhamlichi/" >
 <img width="40px" src="images/linkedin.png" style="margin-right: 15px;">
 </a>
