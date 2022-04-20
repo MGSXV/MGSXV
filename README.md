@@ -4,7 +4,6 @@
 >  🖥️ I am a computer science student at [1337](https://www.1337.ma); \
 >  🎯 I am aiming to be a full stack developer and future machine learning engineer;
 
----------------
 
 <table align="center" style="border: none; text-align: center;">
 <tr>
@@ -24,12 +23,8 @@
 </table>
 
 
-
- 
----------------
-
 <center>
- <div align="center">
+<div align="center">
  
 [![sel-kham's 42 stats](https://badge.mediaplus.ma/binary/sel-kham)](https://github.com/oakoudad/badge42)
  
