@@ -47,7 +47,7 @@
 </div>
 </div> -->
 <h1 align="center">I'm here as well!</h1>
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; gap : 30px; align-items: center;">
+<div align="center" style="display: flex; flex-direction: row; align-items: center; gap : 30px; align-items: center;">
 <div>
 <a href="https://www.facebook.com/soufiane.mgs">
 <img width="40px" src="images/facebook.png" >
