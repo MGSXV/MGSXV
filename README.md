@@ -38,11 +38,11 @@
 <a href="https://www.facebook.com/soufiane.mgs">
 <img width="40px" src="images/facebook.png">
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/soufiane.mgs">
 <img width="40px" src="images/instagram.png">
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/elkhamlichi/">
 <img width="40px" src="images/linkedin.png">
 </a>
