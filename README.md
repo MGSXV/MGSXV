@@ -39,9 +39,9 @@
 <img width="40px" src="images/facebook.png" >
 </a>
 <a href="https://www.instagram.com/soufiane.mgs" style="padding: 15px;">
-<img width="40px" src="images/instagram.png" style="margin-right: 15px;">
+<img width="40px" src="images/instagram.png" style="margin: 15px 15px;">
 </a>
 <a href="https://www.linkedin.com/in/elkhamlichi/" style="padding: 15px;">
-<img width="40px" src="images/linkedin.png" style="margin-right: 15px;">
+<img width="40px" src="images/linkedin.png" style="margin: 15px 15px;">
 </a>
 </div>
