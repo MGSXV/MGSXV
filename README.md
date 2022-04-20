@@ -34,19 +34,19 @@
 ---------------
 
 <h1 align="center">I'm here as well!</h1>
-<div align="center" style="display: flex; gap: 15px; flex-direction: row;">
+<div align="center" style="">
 <p>
-<div>
+<div style="margin: 10px auto;">
 <a href="https://www.facebook.com/soufiane.mgs">
 <img width="40px" src="images/facebook.png">
 </a>
 </div>
-<div >
+<div style="margin: 10px auto;" >
 <a href="https://www.instagram.com/soufiane.mgs">
 <img width="40px" src="images/instagram.png">
 </a>
 </div>
-<div >
+<div style="margin: 10px auto;" >
 <a href="https://www.linkedin.com/in/elkhamlichi/">
 <img width="40px" src="images/linkedin.png">
 </a>
