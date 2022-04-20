@@ -35,13 +35,15 @@
 
 <h1 align="center">I'm here as well!</h1>
 <div align="center" style="display: flex; flex-direction: row; align-items: center; gap : 30px; align-items: center;">
-<a href="https://www.facebook.com/soufiane.mgs" style="padding: 15px;">
-<img width="40px" src="images/facebook.png" >
+<a href="https://www.facebook.com/soufiane.mgs">
+<img width="40px" src="images/facebook.png">
 </a>
-<a href="https://www.instagram.com/soufiane.mgs" style="padding: 15px;">
-<img width="40px" src="images/instagram.png" style="margin: 15px 15px;">
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/soufiane.mgs">
+<img width="40px" src="images/instagram.png">
 </a>
-<a href="https://www.linkedin.com/in/elkhamlichi/" style="padding: 15px;">
-<img width="40px" src="images/linkedin.png" style="margin: 15px 15px;">
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/elkhamlichi/">
+<img width="40px" src="images/linkedin.png">
 </a>
 </div>
