@@ -33,28 +33,15 @@
 
 ---------------
 
-<!-- <h1 align="center">I'm here as well!</h1>
-<div align="center" style="display: flex; gap: 30px; flex-direction: row; align-items: center; margin: 15px;">
-<a href="https://www.facebook.com/soufiane.mgs">
-<img width="40px" src="images/facebook.png" style="margin-left 15px;">
-</a>
-<a href="https://www.instagram.com/soufiane.mgs">
-<img width="40px" src="images/instagram.png" style="marging-left: 15px;">
-</a>
-<a href="https://www.linkedin.com/in/elkhamlichi/" >
-<img width="40px" src="images/linkedin.png" style="margin-left 15px;">
-</a>
-</div>
-</div> -->
 <h1 align="center">I'm here as well!</h1>
 <div align="center" style="display: flex; flex-direction: row; align-items: center; gap : 30px; align-items: center;">
-<a href="https://www.facebook.com/soufiane.mgs">
+<a href="https://www.facebook.com/soufiane.mgs" style="padding: 15px;">
 <img width="40px" src="images/facebook.png" >
 </a>
-<a href="https://www.instagram.com/soufiane.mgs">
+<a href="https://www.instagram.com/soufiane.mgs" style="padding: 15px;">
 <img width="40px" src="images/instagram.png" style="margin-right: 15px;">
 </a>
-<a href="https://www.linkedin.com/in/elkhamlichi/" >
+<a href="https://www.linkedin.com/in/elkhamlichi/" style="padding: 15px;">
 <img width="40px" src="images/linkedin.png" style="margin-right: 15px;">
 </a>
 </div>
