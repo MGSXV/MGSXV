@@ -32,3 +32,16 @@
  </center>
 
 ---------------
+
+<h1 align="center">I'm here as well!</h1>
+<p>
+<a href="https://www.facebook.com/soufiane.mgs">
+<img src="images/facebook.png">
+</a>
+<a href="https://www.instagram.com/soufiane.mgs">
+<img src="images/instagram.png">
+</a>
+<a href="https://www.linkedin.com/in/elkhamlichi/">
+<img src="images/linkedin.png">
+</a>
+</p>
