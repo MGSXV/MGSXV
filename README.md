@@ -32,8 +32,9 @@
  </center>
 
 ---------------
-
+<br>
 <h1 align="center">I'm here as well!</h1>
+<br>
 <div align="center" style="display: flex; flex-direction: row; align-items: center; gap : 30px; align-items: center;">
 <a href="https://www.facebook.com/soufiane.mgs" style="text-decoration: none;">
 <img width="40px" src="images/facebook.png">
@@ -46,4 +47,5 @@
 <a href="https://www.linkedin.com/in/elkhamlichi/" style="text-decoration: none;">
 <img width="40px" src="images/linkedin.png">
 </a>
+<br>
 </div>
