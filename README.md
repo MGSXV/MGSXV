@@ -4,11 +4,11 @@ Hi 👋 My name is Soufiane Elkhamlichi
 Student at 1337 and future software architect
 ---------------------------------------------
 
-I've been learning to code for almost a year now, after switching my career from email marketing. I was introduced to the coding world by 1337 (42Network), One of the most respectable coding schools in the world. I started with C and HTML, and I can say that I found a passion for web development (Fullstack), but I think that Web3 and Blockchain are very interesting!!!
+I've been learning to code for more than two years now, after switching my career from email marketing. I was introduced to the coding world by 1337 (42Network), One of the most respectable coding schools in the world. I started with C and HTML, and I can say that I found a passion for web development (Fullstack), but I think that Web3 and Blockchain are very interesting!!!
 
 * 🌍  I'm based in Tangier, Morocco
 * ✉️  You can contact me at [05soufiane@gmail.com](mailto:05soufiane@gmail.com)
-* 🧠  I'm learning C, C++, JavaScript and Solidity
+* 🧠  I'm learning C, C++, JavaScript and Python
 * 🤝  I'm open to collaborating on Some web3 projects to earn more experience.
 * ⚡  My name is Soufiane, but they call me MGS
 
