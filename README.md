@@ -23,18 +23,17 @@ I've been learning to code for more than two years now, after switching my caree
 
 ### Badges
 
-    <div align="center">
-        <table>
-        <tr><td valign="top" width="45%">
-        
-        <img src="https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&theme=github_dark&langs_count=4&hide_border=true" style="width:100%"/>
-        
-        </td><td valign="top" width="55%">
-         
-        <img src="https://badge.mediaplus.ma/binary/sel-kham" alt="sel-kham's 42 stats" style="width:100%"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MGS15&theme=windows-dark" style="width:100%" />
-        
-        </td></tr>
-        </table>
-        </div>
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&theme=github_dark&langs_count=4&hide_border=true" style="width:100%"/>
+</td>
+<td valign="top" width="55%">
+<img src="https://badge.mediaplus.ma/binary/sel-kham" alt="sel-kham's 42 stats" style="width:100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MGS15&theme=windows-dark" style="width:100%" />
+</td>
+</tr>
+</table>
+</div>
