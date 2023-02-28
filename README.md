@@ -22,17 +22,19 @@ I've been learning to code for more than two years now, after switching my caree
 <p align="left"> <a href="https://discord.com/users/mgs#7411" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/soufiane.mgs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MGS15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/soufiane.mgs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elkhamlichi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/05Soufiane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MGS15"><img src="https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MGS15's GitHub stats" /></a>
-
-<a href="http://www.github.com/MGS15"><img src="https://activity-graph.herokuapp.com/graph?username=MGS15&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/MGS15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="https://github.com/MGS15" align="left">
-
-[![sel-kham's 42 stats](https://badge.mediaplus.ma/binary/sel-kham)](https://github.com/oakoudad/badge42)
-
-</a>
+<body>
+    <div align="center">
+        <table>
+        <tr><td valign="top" width="45%">
+        
+        <img src="https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&theme=github_dark&langs_count=4&hide_border=true" style="width:100%"/>
+        
+        </td><td valign="top" width="55%">
+         
+        <img src="https://badge.mediaplus.ma/binary/sel-kham" alt="sel-kham's 42 stats" style="width:100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MGS15&theme=windows-dark" style="width:100%" />
+        
+        </td></tr>
+        </table>
+        </div>
