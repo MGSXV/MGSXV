@@ -32,7 +32,7 @@ I've been learning to code for more than two years now, after switching my caree
 </td>
 <td valign="top" width="55%">
 <img src="https://badge.mediaplus.ma/binary/sel-kham" alt="sel-kham's 42 stats" style="width:100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MGS15&theme=windows-dark" style="width:100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MGS15&theme=windows-dark&hide_border=true" style="width:100%" />
 </td>
 </tr>
 </table>
