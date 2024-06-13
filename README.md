@@ -19,7 +19,7 @@ I've been learning to code for more than two years now, after switching my caree
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/mgs#7411" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/soufiane.mgs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MGS15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/soufiane.mgs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elkhamlichi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/05Soufiane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/mgsxv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/soufiane.mgs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MGSXV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/soufiane.mgs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elkhamlichi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/05Soufiane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -27,12 +27,12 @@ I've been learning to code for more than two years now, after switching my caree
 <table>
 <tr>
 <td valign="top" width="45%">
-<img src="https://github-readme-stats.vercel.app/api?username=MGS15&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS15&theme=github_dark&langs_count=4&hide_border=true" style="width:100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MGSXV&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGSXV&theme=github_dark&langs_count=4&hide_border=true" style="width:100%"/>
 </td>
 <td valign="top" width="55%">
 <img src="https://badge.mediaplus.ma/binary/sel-kham" alt="sel-kham's 42 stats" style="width:100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MGS15&theme=windows-dark&hide_border=true" style="width:100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MGSXV&theme=windows-dark&hide_border=true" style="width:100%" />
 </td>
 </tr>
 </table>
