@@ -4,7 +4,7 @@ Hi 👋 My name is Soufiane
 Software architect / Frontend passionate
 ---------------------------------------------
 
-Software Architect by title, Frontend Developer by choice (it's not a lie, but also not the whole truth! ). I'm a full-stack developer with a passion for building beautiful and functional UIs with React, TypeScript, and NestJS.
+I'm a backend developer with a passion for building beautiful and functional UIs with React, TypeScript, and NestJS.
 
 While I can wrangle all the layers of the stack, my heart truly lies in crafting intuitive and engaging user experiences on the frontend. Think of me as your friendly neighborhood pixel pusher with an architect's eye for structure.
 
